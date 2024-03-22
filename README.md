@@ -1,0 +1,1 @@
+protótipo de tela feita pelo figma para ser utilizada como aplicativo em conjunto com a protótipo da trilha de interação tangível, essa mesma que é o trabalho das alunas do PFC do 3 ano do ensino médio técnico em informática para web do IFPR Centro de Referência Biopark
